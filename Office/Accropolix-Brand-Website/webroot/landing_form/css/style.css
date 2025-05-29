@@ -1,0 +1,186 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.header-hero
+{
+    padding: 5rem 0;
+    background: url("../img/hero.png");
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.header-hero .brand
+{
+    max-width: 300px;
+    display: block;
+    margin-bottom: 4rem;
+}
+.header-hero h2{
+    font-weight: 800;
+    font-size: 46px;
+    margin-bottom: 4rem;
+}
+.header-hero p{
+    margin-bottom: 4rem;
+}
+.header-hero h3
+{
+    font-weight: 800;
+    font-size: 32px;
+    margin-bottom: 3rem;
+}
+@media (min-width: 1600px){
+    .container {
+        max-width: 1400px;
+    }
+}
+
+
+/*commitment section css */
+section
+{
+    padding: 5rem 0;
+}
+.commitment-section {
+    background-color: #f1f2f2;
+}
+.commitment-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+}
+.commitment-wrapper a {
+    display: flex;
+    background-color: #fff;
+    gap: 1rem;
+    border-left: 4px solid #fb0303;
+    padding: 15px;
+    color: #212529;
+    text-decoration: none;
+}
+
+
+.news-section {
+    display: flex;
+    position: relative;
+}
+.news-column1, .news-column2 {
+    width: 50%;
+    position: relative;
+    padding: 100px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.news-column1 {
+    background-image: url("../img/news1-bg.png");
+    background-size: cover;
+}
+.news-column2 {
+    background-image: url("../img/news2-bg.png");
+    background-size: cover;
+}
+.news-column1 h2 i, .news-column2 h2 i {
+    font-size: 3rem;
+}
+.news-column1 h4, .news-column2 h4 {
+    font-size: 2rem;
+}
+
+
+/*======footer css========*/
+.footer {
+    background: rgb(22,30,41);
+    background: linear-gradient(135deg, rgba(22,30,41,1) 0%, rgba(12,12,13,1) 100%);
+    padding: 3rem 0;
+}
+.footer-logo {
+    width: 200px;
+}
+.social-link {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 1rem;
+    margin-left: 15px;
+    justify-content: right;
+    margin-bottom: 0px;
+}
+.social-link li a {
+    color: #fff;
+    font-size: 2rem;
+}
+.footer .border-top
+{
+    border-top: 1px solid #4e4e4e!important;
+}
+.about-lottie
+{
+    width: 450px;
+    height: 300px;
+    margin: auto;
+}
+@media only screen and (max-width:767px){
+    .header-hero h2
+    {
+        font-size: 28px;
+    }
+    .header-hero h3
+    {
+        font-size: 22px;
+    }
+    .news-section
+    {
+        flex-direction: column;
+    }
+    .news-column1, .news-column2
+    {
+        width: 100%;
+        padding: 40px;
+    }
+    .about-lottie
+    {
+        width: 100%;
+        height: auto;
+    }
+    .commitment-wrapper
+    {
+        grid-template-columns: 1fr;
+    }
+    .zf-tempHeadContBdr .zf-frmTitle
+    {
+        width: 100%;
+        font-size: 2rem;
+    }
+    .zf-namemedium .zf-tempContDiv span
+    {
+        width: 100%;
+    }
+    .zf-leftAlign .zf-tempFrmWrapper .zf-tempContDiv
+    {
+        margin-left: 0;
+    }
+    .zf-namemedium .zf-tempContDiv span
+    {
+        margin-left: 0;
+    }
+    .zf-leftAlign .zf-tempFrmWrapper .zf-labelName
+    {
+        width: 100%;
+    }
+    p{
+        font-size: 13px;
+    }
+    .commitment-wrapper a
+    {
+        font-size: 13px;
+    }
+    .zf-fmFooter .zf-submitColor
+    {
+        width: 100%;
+    }
+}
+

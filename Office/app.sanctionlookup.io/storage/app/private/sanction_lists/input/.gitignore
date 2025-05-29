@@ -1,0 +1,11 @@
+*
+!.gitignore
+!.gitkeep
+!canada-sema-lmes.xml
+!dfat.csv
+!eu-financial-sanctions.xml
+!ofac-consolidated.xml
+!ofac-sdn.xml
+!seco.xml
+!uk-sanction-list.xml
+!un-sc-consolidated.xml

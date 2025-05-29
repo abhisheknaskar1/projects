@@ -1,0 +1,46 @@
+{
+  "name": "remittance-html",
+  "version": "1.0.0",
+  "description": "Remittance Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Patel <appdevd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@material/list": "^3.1.0",
+    "@mdi/font": "^3.6.95",
+    "bootstrap": "^4.3.1",
+    "bootstrap-material-datetimepicker": "^2.7.3",
+    "compass-mixins": "^0.12.10",
+    "credit-card-type": "^8.3.0",
+    "del": "^4.1.1",
+    "fingerprintjs2": "^2.1.0",
+    "flag-icon-css": "^3.3.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^5.0.2",
+    "gulp-inject-partials": "^1.0.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.1",
+    "jquery-mask-plugin": "^1.14.16",
+    "material-colors": "^1.2.6",
+    "material-design-icons": "^3.0.1",
+    "merge-stream": "^1.0.1",
+    "mixins": "0.0.1",
+    "moment": "^2.24.0",
+    "payment-icons": "^1.2.1",
+    "paymentfont": "^1.2.5",
+    "popper.js": "^1.15.0",
+    "roboto-fontface": "^0.10.0",
+    "selectize": "^0.12.6"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
+  }
+}
