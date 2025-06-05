@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Indoor Games",
+            "icon": "/images/icons/amenities/indoor-games.png"
+        }, {
+            "title": "Party Area",
+            "icon": "/images/icons/amenities/party-area.png"
+        }, {
+            "title": "Multipurpose Room",
+            "icon": "/images/icons/amenities/multipurpose-room.png"
+        }, {
+            "title": "Mini Theatre",
+            "icon": "/images/icons/amenities/mini-theatre.png"
+        }, {
+            "title": "Gezabo",
+            "icon": "/images/icons/amenities/gezabo.png"
+        }, {
+            "title": "Amphitheatre",
+            "icon": "/images/icons/amenities/open-amphitheatre.png"
+        }, {
+            "title": "Community Kitchen",
+            "icon": "/images/icons/amenities/community-kitchen.png"
+        }, {
+            "title": "Landscape Garden",
+            "icon": "/images/icons/amenities/landscape-garden.png"
+        }
+    ]
+}

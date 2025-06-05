@@ -1,0 +1,32 @@
+{
+  "amenities": [
+    {
+      "title": "Children Play Area",
+      "icon": "/images/icons/amenities/children-play-area.png"
+    }, {
+      "title": "Kids Pool",
+      "icon": "/images/icons/amenities/kids-pool.png"
+    }, {
+      "title": "Multipurpose Court",
+      "icon": "/images/icons/amenities/multipurpose-hall.png"
+    }, {
+      "title": "Indoor Games Arena",
+      "icon": "/images/icons/amenities/indoor-games.png"
+    }, {
+      "title": "Jogging Track",
+      "icon": "/images/icons/amenities/jogging-trail.png"
+    },{
+      "title": "Swimming Pool",
+      "icon": "/images/icons/amenities/swimming-pool.png"
+    }, {
+      "title": "Multipurpose Hall",
+      "icon": "/images/icons/amenities/multipurpose-hall.png"
+    }, {
+      "title": "Lawn",
+      "icon": "/images/icons/amenities/lawn.png"
+    }, {
+      "title": "Decorative Entrance Lobby",
+      "icon": "/images/icons/amenities/decorative-entrance-lobby.png"
+    }
+  ]
+}

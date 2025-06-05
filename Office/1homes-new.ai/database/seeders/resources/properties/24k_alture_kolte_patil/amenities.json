@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Toddlers Play Zone",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Sand Pit",
+            "icon": "/images/icons/amenities/sand-pit.png"
+        }, {
+            "title": "Outdoor Yoga & Meditation Area",
+            "icon": "/images/icons/amenities/yoga-area.png"
+        }, {
+            "title": "Reflexology Path",
+            "icon": "/images/icons/amenities/reflexology-path.png"
+        }, {
+            "title": "Kids Play Zone",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Amphitheatre",
+            "icon": "/images/icons/amenities/open-amphitheatre.png"
+        }, {
+            "title": "Lounge Pool",
+            "icon": "/images/icons/amenities/poolside-deck.png"
+        }, {
+            "title": "Kids Pool",
+            "icon": "/images/icons/amenities/kids-pool.png"
+        }, {
+            "title": "Spa/Leisure Pool Nestled In Planting",
+            "icon": "/images/icons/amenities/spa-leisure-pool-nestled-in-planting.png"
+        }
+    ]
+}

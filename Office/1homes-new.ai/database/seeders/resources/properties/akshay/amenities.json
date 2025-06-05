@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Columnless living & dining area",
+        "icon": "/images/icons/amenities/columnless-living-&-dining-area.png"
+      }, {
+        "title": "Gymnasium",
+        "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+      }, {
+        "title": "Kids Play Area",
+        "icon": "/images/icons/amenities/children-play-area.png"   
+      }, {
+        "title": "Rainwater harvesting, Borewel",
+        "icon": "/images/icons/amenities/rainwater-harvesting.png"
+      }, {
+        "title": "Video Door Phones with Intercom ( Access Control )",
+        "icon": "/images/icons/amenities/video-door-phone.png"   
+      }, {
+        "title": "CCTV in common parking",
+        "icon": "/images/icons/amenities/cctv.png"
+      }, {
+        "title": "Solar for hot water supply.",
+        "icon": "/images/icons/amenities/solar-system.png"
+      }, {
+        "title": "Rooftop Party Lounge",
+        "icon": "/images/icons/amenities/party-deck.png"
+      }, {
+        "title": "Gazebo",
+        "icon": "/images/icons/amenities/gezabo.png"
+      }
+    ]
+  }
+
+
+
+

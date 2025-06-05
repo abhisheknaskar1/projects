@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Badminton Court",
+            "icon": "/images/icons/amenities/badminton.png"
+        }, {
+            "title": "Net Cricket",
+            "icon": "/images/icons/amenities/cricket.png"
+        }, {
+            "title": "Swimming Pool with Kids Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Aromatic Garden",
+            "icon": "/images/icons/amenities/aromatic-garden.png"
+        }, {
+            "title": "Basketball Court",
+            "icon": "/images/icons/amenities/basketball-court.png"
+        }, {
+            "title": "Jogging Trail",
+            "icon": "/images/icons/amenities/jogging-trail.png"
+        }, {
+            "title": "Senior Citizen Corner",
+            "icon": "/images/icons/amenities/senior-citizen-corner.png"
+        }, {
+            "title": "Reflexology Pathway",
+            "icon": "/images/icons/amenities/reflexology-path.png"
+        }, {
+            "title": "Swing Park",
+            "icon": "/images/icons/amenities/swing-band.png"
+        }
+    ]
+}

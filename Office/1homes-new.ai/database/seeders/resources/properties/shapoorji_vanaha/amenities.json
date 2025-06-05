@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Multi-Purpose Court",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Terrace Garden",
+            "icon": "/images/icons/amenities/lawn.png"
+        }, {
+            "title": "Sky Walk",
+            "icon": "/images/icons/amenities/sky-walk.png"
+        }, {
+            "title": "Kids Pool",
+            "icon": "/images/icons/amenities/kids-pool.png"
+        }, {
+            "title": "Co-Working Lounge",
+            "icon": "/images/icons/amenities/co-working-lounge.png"
+        }, {
+            "title": "Multi-Purpose Hall",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Gym",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Amphitheatre",
+            "icon": "/images/icons/amenities/open-amphitheatre.png"
+        }, {
+            "title": "Creche",
+            "icon": "/images/icons/amenities/creche.png"
+        }
+    ]
+}

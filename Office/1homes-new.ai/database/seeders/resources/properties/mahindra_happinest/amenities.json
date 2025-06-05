@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Obstacle Pole",
+            "icon": "/images/icons/amenities/obstacle-pole.png"
+        }, {
+            "title": "Active Passive Ribbon",
+            "icon": "/images/icons/amenities/active-passive-ribbon.png"
+        }, {
+            "title": "Swing Band",
+            "icon": "/images/icons/amenities/swing-band.png"
+        }, {
+            "title": "Gym",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Swing",
+            "icon": "/images/icons/amenities/swing-band.png"
+        }, {
+            "title": "Stretching Band",
+            "icon": "/images/icons/amenities/stretching-band.png"
+        }, {
+            "title": "Barrel Walk",
+            "icon": "/images/icons/amenities/barrel-walk.png"
+        }, {
+            "title": "Xylophone",
+            "icon": "/images/icons/amenities/xylophone.png"
+        }, {
+            "title": "Multipurpose Court",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }
+    ]
+}

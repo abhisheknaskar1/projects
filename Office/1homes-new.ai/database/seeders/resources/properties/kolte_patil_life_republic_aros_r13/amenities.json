@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Swimming Pool",
+        "icon": "/images/icons/amenities/swimming-pool.png"
+      }, {
+        "title": "Jacuzzi",
+        "icon": "/images/icons/amenities/jacuzzi.png"
+      }, {
+        "title": "Kids Pool",
+        "icon": "/images/icons/amenities/kids-pool.png"
+      }, {
+        "title": "Walk-In Shower",
+        "icon": "/images/icons/amenities/walk-in-shower.png"
+      }, {
+        "title": "Regal Lawne",
+        "icon": "/images/icons/amenities/regal-lawn.png"
+      }, {
+        "title": "Cabana",
+        "icon": "/images/icons/amenities/cabana.png"
+      }, {
+        "title": "Bonfire",
+        "icon": "/images/icons/amenities/bonfire.png"
+      }, {
+        "title": "BBQ Counter",
+        "icon": "/images/icons/amenities/bar-counter.png"
+      }, {
+        "title": "Floating Fitness Studio",
+        "icon": "/images/icons/amenities/floating-fitness-studio.png"
+      }
+    ]
+  }
+
+
+
+

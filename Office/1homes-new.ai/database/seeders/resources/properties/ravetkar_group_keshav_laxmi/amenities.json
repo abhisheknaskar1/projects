@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Fire Fighting",
+            "icon": "/images/icons/amenities/fire-fighting.png"
+        }, {
+            "title": "Elevation",
+            "icon": "/images/icons/amenities/elevation.png"
+        }, {
+            "title": "Lobby",
+            "icon": "/images/icons/amenities/lobby.png"
+        }, {
+            "title": "Kids Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Activity Lawn",
+            "icon": "/images/icons/amenities/activity-lawn.png"
+        }, {
+            "title": "Mini Theatre",
+            "icon": "/images/icons/amenities/mini-theatre.png"
+        }, {
+            "title": "Multipurpose Deck",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Meditation Zone",
+            "icon": "/images/icons/amenities/meditation-cove.png"
+        }, {
+            "title": "Party Deck",
+            "icon": "/images/icons/amenities/party-deck.png"
+        }
+    ]
+}

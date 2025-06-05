@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Entrance Gate",
+            "icon": "/images/icons/amenities/entrance-gate.png"
+        }, {
+            "title": "School Bus Or Cab Waiting Area",
+            "icon": "/images/icons/amenities/school-bus.png"
+        }, {
+            "title": "Poolside Deck",
+            "icon": "/images/icons/amenities/poolside-deck.png"
+        }, {
+            "title": "Poolside Bar Counter",
+            "icon": "/images/icons/amenities/bar-counter.png"
+        }, {
+            "title": "Designer Max Club",
+            "icon": "/images/icons/amenities/designer-max-club.png"
+        }, {
+            "title": "Kitty Party Corner",
+            "icon": "/images/icons/amenities/party-stage.png"
+        }, {
+            "title": "Children's Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Warm-Up Area",
+            "icon": "/images/icons/amenities/jogging-trail.png"
+        }, {
+            "title": "Party Stage",
+            "icon": "/images/icons/amenities/party-stage.png"
+        }
+    ]
+}

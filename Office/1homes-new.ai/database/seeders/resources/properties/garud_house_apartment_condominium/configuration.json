@@ -1,0 +1,53 @@
+{
+    "layout_type": "sectorial",
+    "items": [
+        {
+            "title": "Untitled",
+            "number_of_units": 24,
+            "towers": "01",
+            "floors": "06",
+            "units": [
+                {
+                    "title": "2.5 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1057,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 23800000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": null,
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                },
+                {
+                    "title": "5 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 2065,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 46000000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": null,
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Meditation Cove",
+            "icon": "/images/icons/amenities/meditation-cove.png"
+        }, {
+            "title": "Aromatic Garden",
+            "icon": "/images/icons/amenities/aromatic-garden.png"
+        }, {
+            "title": "Clubhouse Courtyard",
+            "icon": "/images/icons/amenities/clubhouse.png"
+        }, {
+            "title": "Herbs Garden",
+            "icon": "/images/icons/amenities/herbs-garden.png"
+        }, {
+            "title": "Digital Gaming Zone",
+            "icon": "/images/icons/amenities/digital-gaming-zone.png"
+        }, {
+            "title": "Multipurpose Hall",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Gymnasium With Steam Room",
+            "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+        }, {
+            "title": "Floral Tunnel",
+            "icon": "/images/icons/amenities/floral-tunnel.png"
+        }, {
+            "title": "BBQ Hangar",
+            "icon": "/images/icons/amenities/bbq-hangar.png"
+        }
+    ]
+}

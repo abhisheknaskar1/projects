@@ -1,0 +1,36 @@
+{
+    "amenities": [
+        {
+            "title": "Multipurpose Hall",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Indoor Games",
+            "icon": "/images/icons/amenities/indoor-games.png"
+        }, {
+            "title": "Gymnasium",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Business Centre",
+            "icon": "/images/icons/amenities/business-centre.png"
+        }, {
+            "title": "Library / Tool Room",
+            "icon": "/images/icons/amenities/library-tool-room.png"
+        }, {
+            "title": "Guest Rooms",
+            "icon": "/images/icons/amenities/guest-rooms.png"
+        }, {
+            "title": "Kids Pool",
+            "icon": "/images/icons/amenities/kids-pool.png"
+        }, {
+            "title": "Sloped Amphitheater",
+            "icon": "/images/icons/amenities/sloped-amphitheater.png"
+        }, {
+            "title": "Barbeque",
+            "icon": "/images/icons/amenities/bbq-hangar.png"
+        }
+    ]
+}
+
+
+
+

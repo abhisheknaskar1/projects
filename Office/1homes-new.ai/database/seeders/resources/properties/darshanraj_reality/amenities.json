@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Open air gym",
+        "icon": "/images/icons/amenities/gym.png"
+      }, {
+        "title": "Kids' play area on the common terrace top",
+        "icon": "/images/icons/amenities/children-play-area.png"
+      }, {
+        "title": "Access-control system and CCTV for safety and security",
+        "icon": "/images/icons/amenities/cctv.png"   
+      }, {
+        "title": "Rainwater harvesting system as per PMC norms",
+        "icon": "/images/icons/amenities/rainwater-harvesting.png"
+      }, {
+        "title": "Solar photovoltaic system for lift, pumps and common areas",
+        "icon": "/images/icons/amenities/solar-system.png"   
+      }, {
+        "title": "EV charging points in the parking area",
+        "icon": "/images/icons/amenities/energy-management.png"
+      }, {
+        "title": "Solar water heater provision in all restrooms",
+        "icon": "/images/icons/amenities/solar-system.png"
+      }, {
+        "title": "Automatic 8-passenger lift",
+        "icon": "/images/icons/amenities/automatic-8-passenger-lift.png"
+      }, {
+        "title": "Adequate 4-wheeler and 2-wheeler parking",
+        "icon": "/images/icons/amenities/closed-car-parking.png"
+      }
+    ]
+  }
+
+
+
+

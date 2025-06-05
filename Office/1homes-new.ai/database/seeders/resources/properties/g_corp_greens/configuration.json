@@ -1,0 +1,87 @@
+{
+    "layout_type": "sectorial",
+    "items": [
+        {
+            "title": "Untitled",
+            "number_of_units": 128,
+            "towers": "08",
+            "floors": "16",
+            "units": [
+                {
+                    "title": "3 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1177,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 12400000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        },
+                        {
+                            "description": "",
+                            "area": 1184,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 12500000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/2.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }                        
+                    ]
+                },
+                {
+                    "title": "3.5 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1287,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 13700000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3.5-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }                              
+                    ]
+                },
+                {
+                    "title": "4 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1524,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 16100000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/4-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }                              
+                    ]
+                }
+            ]
+        }
+    ]
+}

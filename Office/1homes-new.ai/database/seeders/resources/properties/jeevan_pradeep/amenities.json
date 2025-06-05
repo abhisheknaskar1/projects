@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Gymnasium",
+        "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+      }, {
+        "title": "Kids Play Area",
+        "icon": "/images/icons/amenities/children-play-area.png"
+      }, {
+        "title": "Party Deck",
+        "icon": "/images/icons/amenities/party-deck.png"   
+      }, {
+        "title": "Pantry",
+        "icon": "/images/icons/amenities/pantry.png"
+      }, {
+        "title": "Community Lawn",
+        "icon": "/images/icons/amenities/outdoor-party-lawn.png"   
+      }, {
+        "title": "Solar Deck",
+        "icon": "/images/icons/amenities/solar-deck.png"
+      }, {
+        "title": "Multipurpose Deck",
+        "icon": "/images/icons/amenities/multipurpose-hall.png"
+      }, {
+        "title": "Columnless living & dining area",
+        "icon": "/images/icons/amenities/columnless-living-&-dining-area.png"
+      }, {
+        "title": "Reading Corner",
+        "icon": "/images/icons/amenities/reading-corner.png"
+      }
+    ]
+  }
+
+
+
+

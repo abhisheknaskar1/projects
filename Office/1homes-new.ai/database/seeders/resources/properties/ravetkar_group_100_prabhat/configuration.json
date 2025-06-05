@@ -1,0 +1,71 @@
+{
+    "layout_type": "sectorial",
+    "items": [
+        {
+            "title": "Untitled",
+            "number_of_units": 20,
+            "towers":  "01",
+            "floors": "11",
+            "units": [
+                {
+                    "title": "4 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1916,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 56000000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/4-bhk/1.png",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }, {
+                    "title": "4.5 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 2035,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 59500000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/4.5-bhk/1.png",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }, {
+                    "title": "5.5 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 4185,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 120000000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/5.5-bhk/1.png",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

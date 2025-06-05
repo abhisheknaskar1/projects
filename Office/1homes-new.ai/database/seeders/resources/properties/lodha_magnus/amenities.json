@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Cycling Track",
+            "icon": "/images/icons/amenities/cycling-track.png"
+        }, {
+            "title": "Football Field",
+            "icon": "/images/icons/amenities/football-field.png"
+        }, {
+            "title": "Indoor Badminton Courts",
+            "icon": "/images/icons/amenities/badminton.png"
+        }, {
+            "title": "Basketball Court",
+            "icon": "/images/icons/amenities/basketball-court.png"
+        }, {
+            "title": "Indoor Games Area (TT, Carrom, Chess, Etc.)",
+            "icon": "/images/icons/amenities/indoor-games-area.png.png"
+        }, {
+            "title": "Party Hall",
+            "icon": "/images/icons/amenities/party-hall.png"
+        }, {
+            "title": "Cafe Lounge With Outdoor Seating",
+            "icon": "/images/icons/amenities/cafe-lounge-with-outdoor-seating.png"
+        }, {
+            "title": "Hi-Tech Gym",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Multipurpose Hall",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }
+    ]
+}

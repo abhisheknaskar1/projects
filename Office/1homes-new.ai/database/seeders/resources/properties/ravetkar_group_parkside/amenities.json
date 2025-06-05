@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Designed for maximum light and ventilation",
+            "icon": "/images/icons/amenities/designed-for-maximum-light-and-ventilation.png"
+        }, {
+            "title": "Columnless living & dining area",
+            "icon": "/images/icons/amenities/columnless-living-&-dining-area.png"
+        }, {
+            "title": "Gypsum finish",
+            "icon": "/images/icons/amenities/gypsum-finish.png"
+        }, {
+            "title": "Glass partition for all bathrooms",
+            "icon": "/images/icons/amenities/glass-partition-for-all-bathrooms.png"
+        }, {
+            "title": "High-end bathroom fittings",
+            "icon": "/images/icons/amenities/bathroom-fittings.png"
+        }, {
+            "title": "CCTV cameras for common areas",
+            "icon": "/images/icons/amenities/cctv.png"
+        }, {
+            "title": "Video door phone for each flat",
+            "icon": "/images/icons/amenities/video-door-phone.png"
+        }, {
+            "title": "Designer flooring tiles",
+            "icon": "/images/icons/amenities/designer-flooring-tiles.png"
+        }, {
+            "title": "Digital locks for main door",
+            "icon": "/images/icons/amenities/digital-locks-for-main-door.png"
+        }
+    ]
+}

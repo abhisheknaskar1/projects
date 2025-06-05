@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Lounge",
+            "icon": "/images/icons/amenities/gypsum-finish.png"
+        }, {
+            "title": "Creche/Day care",
+            "icon": "/images/icons/amenities/creche.png"
+        }, {
+            "title": "Gazebo",
+            "icon": "/images/icons/amenities/gezabo.png"
+        }, {
+            "title": "Cafeteria",
+            "icon": "/images/icons/amenities/cafeteria.png"
+        }, {
+            "title": "Library",
+            "icon": "/images/icons/amenities/library-tool-room.png"
+        }, {
+            "title": "Cricket Pitch",
+            "icon": "/images/icons/amenities/cricket.png"
+        }, {
+            "title": "Sun Deck",
+            "icon": "/images/icons/amenities/solar-deck.png"
+        }, {
+            "title": "Multipurpose Court",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Jogging Track",
+        "icon": "/images/icons/amenities/jogging-trail.png"
+      }, {
+        "title": "Gymnasium",
+        "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+      }, {
+        "title": "Multi-Purpose Hall",
+        "icon": "/images/icons/amenities/multipurpose-hall.png"   
+      }, {
+        "title": "Party Lawn",
+        "icon": "/images/icons/amenities/party-deck.png"
+      }, {
+        "title": "Yoga Deck",
+        "icon": "/images/icons/amenities/yoga-area.png"   
+      }, {
+        "title": "Landscaped Terrace",
+        "icon": "/images/icons/amenities/landscape-garden.png"
+      }, {
+        "title": "Kids' Play Area",
+        "icon": "/images/icons/amenities/children-play-area.png"
+      }, {
+        "title": "Meditation Pavilion",
+        "icon": "/images/icons/amenities/meditation-cove.png"
+      }, {
+        "title": "Designer flooring tiles",
+        "icon": "/images/icons/amenities/designer-flooring-tiles.png"
+      }
+    ]
+  }
+
+
+
+

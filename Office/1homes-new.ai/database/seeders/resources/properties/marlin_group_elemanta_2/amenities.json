@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Jogging Track",
+        "icon": "/images/icons/amenities/jogging-trail.png"
+      }, {
+        "title": "Gymnasium",
+        "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+      }, {
+        "title": "Steam room",
+        "icon": "/images/icons/amenities/steam-room.png"   
+      }, {
+        "title": "Health Zone",
+        "icon": "/images/icons/amenities/health-zone.png"
+      }, {
+        "title": "Yoga and aerobic zone",
+        "icon": "/images/icons/amenities/yoga-area.png" 
+      }, {
+        "title": "Banquet hall",
+        "icon": "/images/icons/amenities/multipurpose-hall.png"  
+      }, {
+        "title": "Creche",
+        "icon": "/images/icons/amenities/creche.png"
+      }, {
+        "title": "Guest house",
+        "icon": "/images/icons/amenities/guest-rooms.png"
+      }, {
+        "title": "Designer flooring tiles",
+        "icon": "/images/icons/amenities/designer-flooring-tiles.png"
+      }
+    ]
+  }
+
+
+
+

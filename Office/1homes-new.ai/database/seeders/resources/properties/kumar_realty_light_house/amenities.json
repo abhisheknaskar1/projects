@@ -1,0 +1,36 @@
+{
+    "amenities": [
+        {
+            "title": "Aerobics & Dance",
+            "icon": "/images/icons/amenities/aerobic-area.png"
+        }, {
+            "title": "Sunken Lounge",
+            "icon": "/images/icons/amenities/sunken-pavilion.png"
+        }, {
+            "title": "Multipurpose Deck",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Activity Lawn",
+            "icon": "/images/icons/amenities/activity-lawn.png"
+        }, {
+            "title": "Pavilion",
+            "icon": "/images/icons/amenities/pavilions.png"
+        }, {
+            "title": "Performance Stage",
+            "icon": "/images/icons/amenities/party-stage.png"
+        },{
+            "title": "Meditation Corner",
+            "icon": "/images/icons/amenities/meditation-cove.png"
+        }, {
+            "title": "Amphitheatre",
+            "icon": "/images/icons/amenities/open-amphitheatre.png"
+        }, {
+            "title": "Reading Corner",
+            "icon": "/images/icons/amenities/reading-corner.png"
+        }
+    ]
+}
+
+
+
+

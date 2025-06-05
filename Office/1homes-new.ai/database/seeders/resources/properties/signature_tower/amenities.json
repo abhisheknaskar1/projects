@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Kids's Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Gymnasium",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "BBQ",
+            "icon": "/images/icons/amenities/bbq-hangar.png"
+        }, {
+            "title": "Steam Room",
+            "icon": "/images/icons/amenities/steam-room.png"
+        }, {
+            "title": "Table Tennis",
+            "icon": "/images/icons/amenities/table-tennis.png"
+        }, {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Jogging Track",
+            "icon": "/images/icons/amenities/jogging-trail.png"
+        }, {
+            "title": "Reading Corner",
+            "icon": "/images/icons/amenities/reading-corner.png"
+        },  {
+            "title": "Kids Pool",
+            "icon": "/images/icons/amenities/kids-pool.png"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Structural",
+        "icon": "/images/icons/specifications/construction.png",
+        "items": [
+            "A-grade, earthquake-resistant construction",
+            "Gypsum punning on walls",
+            "Premium-grade paint for walls",
+            "Entire building painted in external-grade texture paint",
+            "Mild steel terrace railing"
+        ]
+    }, {
+        "title": "Sanitary and Fittings",
+        "icon": "/images/icons/specifications/fitting-finishes.png",
+        "items": [
+            "Premium range ceramic sanitary ware of a reputed brand",
+            "Hot/cold shower mixer",
+            "Concealed plumbing and suspended drainage system for toilets with false ceiling"
+        ]
+    }, {
+        "title": "Electrical",
+        "icon": "/images/icons/specifications/electrical.png",
+        "items": [
+            "Premium branded electrical fittings",
+            "Concealed copper wiring with circuit breakers",
+            "Adequate electrical points in all rooms",
+            "Provision for inverter and intercom",
+            "AC and TV electrical points provided for the master bedroom"
+        ]
+    }, {
+        "title": "Flooring",
+        "icon": "/images/icons/specifications/floor.png",
+        "items": [
+            "Vitrified tile flooring in all rooms.",
+            "7' Glazed tiles for dado in toilets"
+        ]
+    }, {
+        "title": "Doors and Windows",
+        "icon": "/images/icons/specifications/door.png",
+        "items": [
+            "Pre Laminated main door",
+            "Flush door with stainless steel (SS) fittings for bedrooms",
+            "Water-resistant doors for the toilet",
+            "Aluminum sliding windows with mosquito mesh"
+        ]
+    }, {
+        "title": "Kitchen",
+        "icon": "/images/icons/specifications/kitchen.png",
+        "items": [
+            "Granite kitchen platform with stainless steel (SS) sink and tap",
+            "Plumbing provisions for water purifier and washing machine",
+            "Kitchen dado wall tiles with 1-foot height from the granite top.",
+            "Provision for exhaust fan and refrigerator"
+        ]
+    }
+]

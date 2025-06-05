@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Community Gathering Spaces",
+            "icon": "/images/icons/amenities/gathering-spaces.png"
+        }, {
+            "title": "Outdoor Gym Area",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Kids’ Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Aerobics And Dance Room",
+            "icon": "/images/icons/amenities/aerobic-area.png"
+        }, {
+            "title": "Tuition Room",
+            "icon": "/images/icons/amenities/tuition-room.png"
+        }, {
+            "title": "Town Hall",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Indoor Games Room",
+            "icon": "/images/icons/amenities/indoor-games.png"
+        }, {
+            "title": "Open Air Theatre",
+            "icon": "/images/icons/amenities/open-air-theatre.png"
+        }, {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }
+    ]
+}

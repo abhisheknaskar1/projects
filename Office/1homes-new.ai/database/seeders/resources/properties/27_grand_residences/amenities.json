@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Partial Power Backup",
+            "icon": "/images/icons/amenities/partial-power-backup.png"
+        }, {
+            "title": "Rain Water Harvesting",
+            "icon": "/images/icons/amenities/rainwater-harvesting.png"
+        }, {
+            "title": "Water Conservation",
+            "icon": "/images/icons/amenities/water-conservation.png"
+        }, {
+            "title": "Energy management",
+            "icon": "/images/icons/amenities/energy-management.png"
+        }, {
+            "title": "Sewage Treatment",
+            "icon": "/images/icons/amenities/sewage-treatment.png"
+        }, {
+            "title": "Solid Waste Management",
+            "icon": "/images/icons/amenities/solid-waste-management.png"
+        }, {
+            "title": "Closed Car Parking",
+            "icon": "/images/icons/amenities/closed-car-parking.png"
+        }, {
+            "title": "24X7 Water Supply",
+            "icon": "/images/icons/amenities/24X7-water-supply.png"
+        }, {
+            "title": "CCTV",
+            "icon": "/images/icons/amenities/cctv.png"
+        }
+    ]
+}

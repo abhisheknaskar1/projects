@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "State Of The Art Gym",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Aerobic Area",
+            "icon": "/images/icons/amenities/aerobic-area.png"
+        }, {
+            "title": "Yoga Area",
+            "icon": "/images/icons/amenities/yoga-area.png"
+        }, {
+            "title": "Separate Steam Rooms For Men And Women",
+            "icon": "/images/icons/amenities/separate-steam-rooms-for-men-and-women.png"
+        }, {
+            "title": "Jogging & Walking Track",
+            "icon": "/images/icons/amenities/jogging-trail.png"
+        }, {
+            "title": "Swimming Pool With Attached Changing And Wash Rooms",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Kabbadi Pitch & Box Cricket Area",
+            "icon": "/images/icons/amenities/kabbadi-pitch-&-box-cricket-area.png"
+        }, {
+            "title": "Putting Golf",
+            "icon": "/images/icons/amenities/putting-golf.png"
+        }, {
+            "title": "Open Air Theatre",
+            "icon": "/images/icons/amenities/open-air-theatre.png"
+        }
+    ]
+}

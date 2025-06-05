@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Half Basket Ball Court",
+        "icon": "/images/icons/amenities/basketball-court.png"
+      }, {
+        "title": "Party Lawn",
+        "icon": "/images/icons/amenities/party-deck.png"
+      }, {
+        "title": "Jogging Track",
+        "icon": "/images/icons/amenities/jogging-trail.png"   
+      }, {
+        "title": "Club House",
+        "icon": "/images/icons/amenities/clubhouse.png"
+      }, {
+        "title": "Multipurpose Hall",
+        "icon": "/images/icons/amenities/multipurpose-hall.png"   
+      }, {
+        "title": "Swimming Pool",
+        "icon": "/images/icons/amenities/swimming-pool.png"
+      }, {
+        "title": "Yoga and Meditation Room",
+        "icon": "/images/icons/amenities/yoga-area.png"
+      }, {
+        "title": "Well-equipped Gymnasium",
+        "icon": "/images/icons/amenities/gymnasium-with-steam-room.png"
+      }, {
+        "title": "Designer flooring tiles",
+        "icon": "/images/icons/amenities/designer-flooring-tiles.png"
+      }
+    ]
+  }
+
+
+
+

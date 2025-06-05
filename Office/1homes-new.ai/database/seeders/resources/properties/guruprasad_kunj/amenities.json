@@ -1,0 +1,32 @@
+{
+  "amenities": [
+    {
+      "title": "Vastu / Feng Shui compliant",
+      "icon": "/images/icons/amenities/vastu-feng-shui-compliant.png"
+    }, {
+      "title": "Terrace Party Area",
+      "icon": "/images/icons/amenities/party-area.png"
+    }, {
+      "title": "Solar System",
+      "icon": "/images/icons/amenities/solar-deck.png"
+    }, {
+      "title": "Multipurpose Hall",
+      "icon": "/images/icons/amenities/multipurpose-hall.png"
+    }, {
+      "title": "Play Area",
+      "icon": "/images/icons/amenities/children-play-area.png"
+    }, {
+      "title": "24Hrs Backup Electricity",
+      "icon": "/images/icons/amenities/24hrs-backup-electricity.png"
+    }, {
+      "title": "Gym",
+      "icon": "/images/icons/amenities/gym.png"
+    }, {
+      "title": "Covered Car Parking",
+      "icon": "/images/icons/amenities/closed-car-parking.png"
+    }, {
+      "title": "Lawn",
+      "icon": "/images/icons/amenities/lawn.png"
+    }
+  ]
+}

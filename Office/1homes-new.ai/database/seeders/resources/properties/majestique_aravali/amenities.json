@@ -1,0 +1,36 @@
+{
+    "amenities": [
+      {
+        "title": "Swimming Pool",
+        "icon": "/images/icons/amenities/swimming-pool.png"
+      }, {
+        "title": "Kids Pool",
+        "icon": "/images/icons/amenities/kids-pool.png"
+      }, {
+        "title": "Toddler Zone",
+        "icon": "/images/icons/amenities/kids-pool.png"
+      }, {
+        "title": "Multipurpose Hall",
+        "icon": "/images/icons/amenities/multipurpose-hall.png"
+      }, {
+        "title": "Security",
+        "icon": "/images/icons/amenities/regal-lawn.png"
+      }, {
+        "title": "Rain Water Harvesting",
+        "icon": "/images/icons/amenities/rainwater-harvesting.png"
+      }, {
+        "title": "Power Backup in common areas",
+        "icon": "/images/icons/amenities/24hrs-backup-electricity.png"
+      }, {
+        "title": "Meditation Zone",
+        "icon": "/images/icons/amenities/meditation-cove.png"
+      }, {
+        "title": "Gym",
+        "icon": "/images/icons/amenities/gym.png"
+      }
+    ]
+  }
+
+
+
+

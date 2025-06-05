@@ -1,0 +1,35 @@
+{
+    "layout_type": "sectorial",
+    "items": [
+        {
+            "title": "Untitled",
+            "number_of_units": null,
+            "towers":  null,
+            "floors": "Ground+1 Structure",
+            "garden_area":  "600 Sqft",
+            "no_of_bathroom":  4,
+            "units": [
+                {
+                    "title": "4 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1379,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": null,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": null,
+                            "no_of_bed": 4,
+                            "no_of_bath": 4,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

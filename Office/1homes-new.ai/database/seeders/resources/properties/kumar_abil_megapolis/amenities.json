@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Clubhouse",
+            "icon": "/images/icons/amenities/clubhouse.png"
+        }, {
+            "title": "Indoor Gym Area",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Children Games Room",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Open Amphitheatre",
+            "icon": "/images/icons/amenities/open-amphitheatre.png"
+        }, {
+            "title": "Senior Citizen Plaza",
+            "icon": "/images/icons/amenities/senior-citizen-corner.png"
+        }, {
+            "title": "Jogging Track",
+            "icon": "/images/icons/amenities/jogging-trail.png"
+        }, {
+            "title": "Sewage Treatment Plant",
+            "icon": "/images/icons/amenities/sewage-treatment-plant.png"
+        }, {
+            "title": "Outdoor Party Lawn",
+            "icon": "/images/icons/amenities/outdoor-party-lawn.png"
+        }, {
+            "title": "Stepping-Stone",
+            "icon": "/images/icons/amenities/stepping-stone.png"
+        }
+    ]
+}

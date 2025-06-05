@@ -1,0 +1,29 @@
+{
+    "amenities": [
+        {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Children's Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Party Lawn",
+            "icon": "/images/icons/amenities/lawn.png"
+        }, {
+            "title": "Walking Track",
+            "icon": "/images/icons/amenities/sky-walk.png"
+        }, {
+            "title": "Club House",
+            "icon": "/images/icons/amenities/clubhouse.png"
+        }, {
+            "title": "Gymnasium",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Rainwater Harvesting",
+            "icon": "/images/icons/amenities/rainwater-harvesting.png"
+        }, {
+            "title": "STP For Water Recycling",
+            "icon": "/images/icons/amenities/water-recycling.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "amenities": [
+      {
+        "title": "Landscaped Garden",
+        "icon": "/images/icons/amenities/landscape-garden.png"
+      }, {
+        "title": "Ample Parking",
+        "icon": "/images/icons/amenities/closed-car-parking.png"
+      }, {
+        "title": "Energy Efficiency",
+        "icon": "/images/icons/amenities/24hrs-backup-electricity.png"   
+      }, {
+        "title": "Natural Light",
+        "icon": "/images/icons/amenities/rainwater-harvesting.png"
+      }, {
+        "title": "Convenient Location",
+        "icon": "/images/icons/amenities/cafeteria.png"   
+      }
+    ]
+  }
+
+
+
+

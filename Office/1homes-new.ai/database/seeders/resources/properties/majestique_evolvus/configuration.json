@@ -1,0 +1,189 @@
+{
+    "layout_type": "sectorial",
+    "items": [
+        {
+            "title": "Untitled",
+            "number_of_units": 1248,
+            "towers":  "12",
+            "floors": "26",
+            "units": [
+                {
+                    "title": "2 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 730,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 10400000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/2-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 815,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 11500000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/2-bhk/2.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 877,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 12200000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/2-bhk/3.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                },
+                {
+                    "title": "3 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1092,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 15500000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1115,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 16000000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/2.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1148,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 16200000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/3.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1157,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 16400000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/4.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1174,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 16800000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/5.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1264,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 18000000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/6.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1300,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 18500000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/3-bhk/7.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }, {
+                    "title": "4 BHK",
+                    "number_of_flats": null,
+                    "variations": [
+                        {
+                            "description": "",
+                            "area": 1684,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 24400000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/4-bhk/1.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }, {
+                            "description": "",
+                            "area": 1715,
+                            "min_area": null,
+                            "max_area": null,
+                            "area_type": "carpet",
+                            "price": 24900000,
+                            "min_price": null,
+                            "max_price": null,
+                            "layout": "layouts/untitled/4-bhk/2.jpg",
+                            "no_of_bed": null,
+                            "no_of_bath": null,
+                            "no_of_kitchen": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

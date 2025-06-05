@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Clubhouse",
+            "icon": "/images/icons/amenities/clubhouse.png"
+        }, {
+            "title": "Swimming Pool",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Gymnasium",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Yoga Studio",
+            "icon": "/images/icons/amenities/yoga-area.png"
+        }, {
+            "title": "Streets Lights",
+            "icon": "/images/icons/amenities/streets-lights.png"
+        }, {
+            "title": "Bore well, Well",
+            "icon": "/images/icons/amenities/bore-well.png"
+        }, {
+            "title": "Children's Play Area",
+            "icon": "/images/icons/amenities/children-play-area.png"
+        }, {
+            "title": "Individual connections",
+            "icon": "/images/icons/amenities/individual-connection.png"
+        }, {
+            "title": "Security",
+            "icon": "/images/icons/amenities/regal-lawn.png"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Senior Folk's Den",
+            "icon": "/images/icons/amenities/senior-folks-den.png"
+        }, {
+            "title": "Seating Plaza",
+            "icon": "/images/icons/amenities/seating-plaza.png"
+        }, {
+            "title": "Yoga Lawn",
+            "icon": "/images/icons/amenities/yoga-area.png"
+        }, {
+            "title": "Multi-Purpose Court",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Underwater Seats",
+            "icon": "/images/icons/amenities/underwater-seats.png"
+        }, {
+            "title": "Sunken Pavilion",
+            "icon": "/images/icons/amenities/sunken-pavilion.png"
+        }, {
+            "title": "Outdoor Fitness Zone",
+            "icon": "/images/icons/amenities/floating-fitness-studio.png"
+        }, {
+            "title": "Barbeque Counter",
+            "icon": "/images/icons/amenities/bbq-hangar.png"
+        }, {
+            "title": "Party Lawn",
+            "icon": "/images/icons/amenities/outdoor-party-lawn.png"
+        }
+    ]
+}

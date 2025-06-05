@@ -1,0 +1,32 @@
+{
+    "amenities": [
+        {
+            "title": "Exquisite Restaurant",
+            "icon": "/images/icons/amenities/exquisite-restaurant.png"
+        }, {
+            "title": "Swimming Pool With Lounges",
+            "icon": "/images/icons/amenities/swimming-pool.png"
+        }, {
+            "title": "Banquet Halls",
+            "icon": "/images/icons/amenities/multipurpose-hall.png"
+        }, {
+            "title": "Mini Theatre",
+            "icon": "/images/icons/amenities/mini-theatre.png"
+        }, {
+            "title": "Pavilion",
+            "icon": "/images/icons/amenities/pavilions.png"
+        }, {
+            "title": "Elegant Billiards Table",
+            "icon": "/images/icons/amenities/elegant-billiards-table.png"
+        }, {
+            "title": "Upscale Lounge",
+            "icon": "/images/icons/amenities/upscale-lounge.png"
+        }, {
+            "title": "Gym",
+            "icon": "/images/icons/amenities/gym.png"
+        }, {
+            "title": "Modern Indoor Court",
+            "icon": "/images/icons/amenities/modern-indoor-court.png"
+        }
+    ]
+}
